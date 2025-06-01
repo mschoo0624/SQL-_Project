@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/mschoo0624/Desktop/cs341/Project1/output/practice'
+relocations:     []
+...
