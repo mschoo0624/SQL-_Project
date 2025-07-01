@@ -1,7 +1,3 @@
-
-# Name: Minseo Choo
-# UIN: 664433243
-# NetID: mchoo2
 import sqlite3
 import matplotlib.pyplot as figure
 import datetime # for the command 8
@@ -617,8 +613,7 @@ def option9(dbConn):
 #
 dbConn = sqlite3.connect('chicago-traffic-cameras.db')
 
-print("Project 1: Chicago Traffic Camera Analysis")
-print("CS 341, Spring 2025")
+print("Project: Chicago Traffic Camera Analysis")
 print()
 print("This application allows you to analyze various")
 print("aspects of the Chicago traffic camera database.")
